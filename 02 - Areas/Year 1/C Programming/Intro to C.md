@@ -20,8 +20,9 @@
 - 1999 – C99 – complex type, // comments, Unicode
 - 2011 – C11 – Library improvements
 - 2018 – C17 - Easier than C11
+- 2023 - C23 - Latest Version
 
-[Longer version - GeeksforGeeks](https://www.geeksforgeeks.org/c-programming-language-standard/)
+[[History of C.md]]
 
 ## Importance of C
 
