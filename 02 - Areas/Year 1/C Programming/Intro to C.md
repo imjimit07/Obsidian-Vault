@@ -1,5 +1,7 @@
 # OVERVIEW OF C PROGRAMMING LANGUAGE
 
+## Chapter 1
+
 ## History of Computers
 - 1940's – Top Secret / Military (Used during **World War 2**)
 - 1950's – Companies like IBM and DEC begin selling computers
