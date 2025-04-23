@@ -60,4 +60,57 @@ To print statements in C, type this inside the *main()* function
 ```c
 printf("Hello, World");
 ```
-> To print in a new line, don't forget to add */n* in the end of the sentence. Otherwise, the character will be printed on the same line without a blank space.
+> To print in a new line, don't forget to add *\n* in the end of the sentence. Otherwise, the character will be printed on the same line without a blank space.
+
+## Compiling a C file
+
+To compile a C file using *gcc compiler*, type this in the command prompt
+```bash
+gcc Hello-World.c
+```
+This compiles the file and creates a *.exe* file i.e. executable. To run the executable, type this
+```bash
+Hello-World.exe
+```
+
+## Comments and Escape Sequences
+
+### Comments
+A comment is some text ignored by the compiler and it is used to write notes and explain code when another user is accessing the code.
+
+To type a comment, type 2 forward slashes like this
+```c
+// This is a comment
+```
+
+To type multi-line comment type forward slash and an asterick and to finish type the same but in reverse like this
+```c
+/*
+This is a multi-
+line comment.
+It works.
+*/
+```
+
+### Escape Sequences
+
+Escape sequences are a letter with a backslash. It is same like python.
+Example:
+1. `\n` - New Line.
+2. `\t` - Horizontal Tab.
+3. `\b` - Backspace.
+4. `\f` - Formfeed page break.
+5. `\v` - Vertical Tab.
+5. `\\` - Backslash.
+6. `\?` - Question Mark.
+7. `\r` - Carrigage Return (Brings the cursor back to initial position and it doesn't print the characters before it).
+8. `\bbb` - Prints the letter or value based on the **octal** code given.
+9. `\xhh` - Prints the **hexadcimal** code given in the place of `hh`.
+
+These are written inside the *printf* statement inside the quotations
+
+To print `"`, `'`, `\` and `/` inside in the *printf* statement, type this
+```c
+printf("\"This is a quote.\" - Jimit Patel")
+```
+> Replace the symbol **after** the backslash only.
