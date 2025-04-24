@@ -114,7 +114,3 @@ To print `"`, `'`, `\` and `/` inside in the *printf* statement, type this
 printf("\"This is a quote.\" - Jimit Patel")
 ```
 > Replace the symbol **after** the backslash only.
-
-
-
-Someting new

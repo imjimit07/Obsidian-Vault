@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6cfafcaac5aab687",
+        "id": "b11f0ddbc32c5b88",
         "type": "tabs",
         "children": [
           {
-            "id": "33527e1e203f1167",
+            "id": "87b1a08e3ae98880",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "02 - Areas/College/Year 1/C Programming/Notes/Intro to C.md",
-                "bFile": "02 - Areas/College/Year 1/C Programming/Notes/Intro to C.md",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Intro to C"
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -163,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33527e1e203f1167",
+  "active": "87b1a08e3ae98880",
   "lastOpenFiles": [
     "02 - Areas/College/Year 1/C Programming/Notes/Intro to C.md",
     "02 - Areas/College/Year 1/C Programming/Notes/History of C.md"
