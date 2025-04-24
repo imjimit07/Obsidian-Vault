@@ -1,3 +1,7 @@
+---
+date: 2025-04-24T16:24
+tags: []
+---
 # [Syllabus 2023-24](https://www.svnit.ac.in/web/department/ai/pdf/curriculum/BTech-AI-2023-24-Curriculum-First-Year-Syllabus.pdf)
 
 # Computer Science
