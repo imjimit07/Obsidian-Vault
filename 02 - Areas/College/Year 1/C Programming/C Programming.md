@@ -21,8 +21,8 @@ Chapter 10 -
 
 Chapter 1 - [[202504241303 Intro to C]]
 Chapter 2 - [[202504241359 Variables and Data Types]]
-Chapter 3 - 
-Chapter 4 - 
+Chapter 3 - [[202504242259 Operators and Expressions]]
+Chapter 4 - [[202504242323 Input, Output, Mathematics, Date and Time]]
 Chapter 5 - 
 Chapter 6 - 
 Chapter 7 - 
@@ -32,7 +32,7 @@ Chapter 10 -
 Chapter 11 - 
 Chapter 12 - 
 
-# English Communication (We add soon)
+# English Communication (Will add if needed)
 
 # Electric Circuits
 
