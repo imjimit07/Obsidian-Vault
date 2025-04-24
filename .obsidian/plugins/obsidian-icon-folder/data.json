@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiPenLine",
+      "BoBxPhotoAlbum",
+      "LiCode",
+      "1️⃣",
+      "LiSchool2"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [
       {
@@ -57,16 +63,16 @@
         "order": 7
       },
       {
-        "rule": "- Archives",
-        "icon": "BoBxsArchive",
-        "for": "folders",
-        "order": 9
-      },
-      {
         "rule": "- Permanent",
         "icon": "BoBxsFile",
         "for": "everything",
         "order": 8
+      },
+      {
+        "rule": "- Archives",
+        "icon": "BoBxsArchive",
+        "for": "folders",
+        "order": 9
       }
     ],
     "extraMargin": {
@@ -88,5 +94,10 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "02 - Areas/College": "LiSchool2",
+  "02 - Areas/College/Year 1": "1️⃣",
+  "02 - Areas/College/Year 1/C Programming": "LiCode",
+  "02 - Areas/College/Year 1/C Programming/Assets": "BoBxPhotoAlbum",
+  "02 - Areas/College/Year 1/C Programming/Notes": "LiPenLine"
 }

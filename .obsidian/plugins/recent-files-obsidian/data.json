@@ -1,11 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "202504241303",
+      "path": "202504241303.md"
+    },
+    {
       "basename": "20250424",
       "path": "06 - Daily/20250424.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
     }
   ],
   "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false,
   "maxLength": null,
   "openType": "tab"
 }

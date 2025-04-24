@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/20250424.md",
-                "mode": "source",
+                "file": "202504241303.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250424"
+              "title": "202504241303"
             }
           }
         ]
@@ -33,6 +33,7 @@
       {
         "id": "4a0b50a87bfd6d4a",
         "type": "tabs",
+        "dimension": 57.654320987654316,
         "children": [
           {
             "id": "108df09aa5ddb9d8",
@@ -53,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"cssclasses\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,6 +86,34 @@
             }
           }
         ]
+      },
+      {
+        "id": "a34dff407c4b00e9",
+        "type": "tabs",
+        "dimension": 42.34567901234568,
+        "children": [
+          {
+            "id": "c25fc43ddbb674b1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "eb278612e4ba7875",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -104,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Daily/20250424.md",
+                "file": "202504241303.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 20250424"
+              "title": "Backlinks for 202504241303"
             }
           },
           {
@@ -123,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Daily/20250424.md",
+                "file": "202504241303.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 20250424"
+              "title": "Outgoing links from 202504241303"
             }
           },
           {
@@ -166,41 +195,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Daily/20250424.md",
+                "file": "202504241303.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20250424"
-            }
-          },
-          {
-            "id": "c25fc43ddbb674b1",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "eb278612e4ba7875",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of 202504241303"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,6 +233,17 @@
   },
   "active": "05238301defb90ea",
   "lastOpenFiles": [
-    "06 - Daily/20250424.md"
+    "02 - Areas/College/Year 1/C Programming/Assets/structure-of-c-program.png",
+    "02 - Areas/College/Year 1/C Programming/Assets/Pasted image 20250424130527.png",
+    "202504241303.md",
+    "06 - Daily/20250424.md",
+    "02 - Areas/College/Year 1/C Programming/Notes",
+    "02 - Areas/College/Year 1/C Programming/Assets",
+    "02 - Areas/College/Year 1/C Programming",
+    "02 - Areas/College/Year 1",
+    "02 - Areas/College",
+    "Untitled",
+    "02 - Areas/Placeholder.md",
+    "Untitled.md"
   ]
 }
