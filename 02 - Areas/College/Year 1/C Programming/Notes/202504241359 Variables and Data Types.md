@@ -56,3 +56,37 @@ printf("Your name is %f.", gpa); // %f - float
 > By default, “char” datatype is an “signed char”.
 
 > When a datatype is unsigned, it will take the negative numbers range as positive and add it.
+
+### Format Specifiers
+
+Using a format specifier we can format the data that is printed using the ‘printf()’ statement. There are three types of format specifiers. Here are the examples:
+```c {16}
+#include <stdio.h>
+
+int main() {
+     float a = 103.8943;
+     
+     printf("%.2f\n", a); // 2 decimal places
+     printf("%15.3f\n", a); // right aligned by 15 characters (including the number)
+     // Also known as minimum field-width
+     printf("%-32.2f", a); // left aligned by 32 characters (including the number)
+
+    return 0;
+}
+/* 
+Output:
+103.89
+        103.894
+103.89                          
+```
+
+The highlighted line has 26 blank spaces showing that is left aligned at 32 characters.
+
+### Constants
+
+A constant is a fixed value that cannot be altered by the programme during its execution. It is immutable.
+
+Example:
+```c
+const float pi = 3.14159;
+```
