@@ -11,7 +11,7 @@ cssclasses:
 
 - Used to allocate space to store a value.
 - Easier to access the value using the variable name.
-- **BUT** we have declare the type of data we are storing with the variable.
+- **BUT** we have to declare the type of data we are storing with the variable.
 
 To create a variable, type this:
 ```c
