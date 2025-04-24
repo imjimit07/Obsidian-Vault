@@ -16,7 +16,7 @@ Chapter 10 -
 # C Programming
 
 Chapter 1 - [[202504241303 Intro to C]]
-Chapter 2 - 
+Chapter 2 - [[202504241359 Variables and Data Types]]
 Chapter 3 - 
 Chapter 4 - 
 Chapter 5 - 
