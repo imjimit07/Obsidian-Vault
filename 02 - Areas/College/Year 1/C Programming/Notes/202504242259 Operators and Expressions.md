@@ -5,7 +5,7 @@ tags:
 ---
 # Operators and Expressions
 
-## Operators
+## Arithmetic Operators
 
 There are 7 arithmetic operators mainly used in C. Those are:
 - Addition (+)
@@ -45,4 +45,23 @@ int x -= 1;
 int x *= 1;
 int x /= 1;
 int x %= 1; // When divided by 1, output is always 0.
+```
+
+## Logical Operators
+
+These are mostly used in `if` statements.
+
+1. `AND` operator
+```c
+temp >= 0 && temp <=30;
+```
+
+2. `OR` Operator
+```c
+temp >= 0 || temp <=30;
+```
+
+3. `NOT` Operator
+```c
+!temp // !<variable>
 ```

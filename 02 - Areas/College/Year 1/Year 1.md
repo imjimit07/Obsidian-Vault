@@ -32,6 +32,10 @@ Chapter 10 -
 Chapter 11 - 
 Chapter 12 - 
 
+## Practical’s
+
+1. [[202504251427 Circle Circumference]]
+2. [[202504251602 Hypotenuse of a Triangle]]
 # English Communication (Will add if needed)
 
 # Electric Circuits
