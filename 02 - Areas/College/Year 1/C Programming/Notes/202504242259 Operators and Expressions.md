@@ -2,6 +2,8 @@
 date: 2025-04-24T22:59
 tags:
   - C
+cssclasses:
+  - page-manila
 ---
 # Operators and Expressions
 
