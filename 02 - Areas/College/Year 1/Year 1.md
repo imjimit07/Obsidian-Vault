@@ -40,7 +40,7 @@ Chapter 12 -
 
 # Electric Circuits
 
-Chapter 1 - 
+Chapter 1 - [[202504261758 Alternating Current]]
 Chapter 2 - 
 Chapter 3 - 
 Chapter 4 - [[202504252235 Mesh, Node and Inductance]]
