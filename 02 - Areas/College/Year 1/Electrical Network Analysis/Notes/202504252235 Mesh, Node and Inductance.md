@@ -129,11 +129,11 @@ where L is self-inductance and,
 
 When current changes the induced emf produced is
 $$
-\varepsilon = \frac{-d\phi}{dt}
+\mathcal{E} = \frac{-d\phi}{dt}
 $$
 which is also equal to
 $$
-\varepsilon = -L\frac{di}{dt}
+\mathcal{E} = -L\frac{di}{dt}
 $$
 
 ### Mutual Inductance
@@ -146,9 +146,9 @@ $$
 where M is mutual inductance.
 
 $$
-\varepsilon = \frac{-d\phi}{dt}
+\mathcal{E} = \frac{-d\phi}{dt}
 $$
 which is also equal to
 $$
-\varepsilon = -M\frac{di}{dt}
+\mathcal{E} = -M\frac{di}{dt}
 $$
