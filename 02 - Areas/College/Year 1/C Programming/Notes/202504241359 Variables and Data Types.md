@@ -4,6 +4,8 @@ tags:
   - C
 cssclasses:
   - center-images
+  - center-titles
+  - page-manila
 ---
 # CONSTANTS, VARIABLES, AND DATA TYPES
 

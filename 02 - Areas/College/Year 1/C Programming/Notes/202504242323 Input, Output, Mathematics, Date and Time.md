@@ -2,7 +2,9 @@
 date: 2025-04-24T23:23
 tags:
   - C
-cssclasses: []
+cssclasses:
+  - center-titles
+  - page-manila
 ---
 # LIBRARY FUNCTIONS: INPUT, OUTPUT, MATHEMATICS, DATE AND TIME
 

@@ -4,6 +4,7 @@ tags:
   - C
 cssclasses:
   - page-manila
+  - center-titles
 ---
 # Float and Double
 

@@ -1,6 +1,10 @@
 ---
 date: 2025-04-25T17:45
-tags: []
+tags:
+  - C
+cssclasses:
+  - center-titles
+  - page-manila
 ---
 # DECISION MAKING AND BRANCHING
 

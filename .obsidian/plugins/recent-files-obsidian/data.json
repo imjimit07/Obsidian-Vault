@@ -1,28 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Year 1",
-      "path": "02 - Areas/College/Year 1/Year 1.md"
+      "basename": "202504241303 Intro to C",
+      "path": "02 - Areas/College/Year 1/C Programming/Notes/202504241303 Intro to C.md"
     },
     {
-      "basename": "202504251745 Decision Making and Branching",
-      "path": "02 - Areas/College/Year 1/C Programming/Notes/202504251745 Decision Making and Branching.md"
+      "basename": "202504241359 Variables and Data Types",
+      "path": "02 - Areas/College/Year 1/C Programming/Notes/202504241359 Variables and Data Types.md"
     },
     {
-      "basename": "202504252235 Mesh and Node",
-      "path": "02 - Areas/College/Year 1/Electrical Network Analysis/Notes/202504252235 Mesh and Node.md"
+      "basename": "202504241609 Float and Double",
+      "path": "02 - Areas/College/Year 1/C Programming/Notes/202504241609 Float and Double.md"
     },
     {
-      "basename": "20250425",
-      "path": "06 - Daily/20250425.md"
+      "basename": "202504241610 signed char",
+      "path": "02 - Areas/College/Year 1/C Programming/Notes/202504241610 signed char.md"
     },
     {
       "basename": "202504242259 Operators and Expressions",
       "path": "02 - Areas/College/Year 1/C Programming/Notes/202504242259 Operators and Expressions.md"
     },
     {
+      "basename": "202504251745 Decision Making and Branching",
+      "path": "02 - Areas/College/Year 1/C Programming/Notes/202504251745 Decision Making and Branching.md"
+    },
+    {
       "basename": "202504242323 Input, Output, Mathematics, Date and Time",
       "path": "02 - Areas/College/Year 1/C Programming/Notes/202504242323 Input, Output, Mathematics, Date and Time.md"
+    },
+    {
+      "basename": "202504252235 Mesh and Node",
+      "path": "02 - Areas/College/Year 1/Electrical Network Analysis/Notes/202504252235 Mesh and Node.md"
+    },
+    {
+      "basename": "Year 1",
+      "path": "02 - Areas/College/Year 1/Year 1.md"
+    },
+    {
+      "basename": "20250425",
+      "path": "06 - Daily/20250425.md"
+    },
+    {
+      "basename": "20250426",
+      "path": "06 - Daily/20250426.md"
     },
     {
       "basename": "202504251427 Circle Circumference",
@@ -33,28 +53,12 @@
       "path": "02 - Areas/College/Year 1/C Programming/Practical/202504251602 Hypotenuse of a Triangle.md"
     },
     {
-      "basename": "202504241359 Variables and Data Types",
-      "path": "02 - Areas/College/Year 1/C Programming/Notes/202504241359 Variables and Data Types.md"
-    },
-    {
-      "basename": "202504241303 Intro to C",
-      "path": "02 - Areas/College/Year 1/C Programming/Notes/202504241303 Intro to C.md"
-    },
-    {
       "basename": "20250424",
       "path": "06 - Daily/20250424.md"
     },
     {
       "basename": "202504241308 History of C",
       "path": "03 - Resources/C Programming/202504241308 History of C.md"
-    },
-    {
-      "basename": "202504241610 signed char",
-      "path": "02 - Areas/College/Year 1/C Programming/Notes/202504241610 signed char.md"
-    },
-    {
-      "basename": "202504241609 Float and Double",
-      "path": "02 - Areas/College/Year 1/C Programming/Notes/202504241609 Float and Double.md"
     }
   ],
   "omittedPaths": [],
