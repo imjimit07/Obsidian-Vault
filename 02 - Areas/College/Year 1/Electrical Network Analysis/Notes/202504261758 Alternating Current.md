@@ -123,4 +123,4 @@ $$
 i = \frac{\mathcal{E}_o}{Z}\sin(\omega t\ -\ \upvarphi)
 $$
 
-##
+## Initial and Final Value Theorem
