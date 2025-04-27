@@ -9,6 +9,7 @@ cssclasses:
 
 ## Impedance and Reactance
 
+[[202504271724 Impedance, Reactance and Admittance]]
 $$
 \begin{gathered}
 Z = \frac{V_m}{I_m} = \frac{V_{rms}}{I_{rms}} \\ \\
@@ -121,3 +122,5 @@ The steady-state current is
 $$
 i = \frac{\mathcal{E}_o}{Z}\sin(\omega t\ -\ \upvarphi)
 $$
+
+##
