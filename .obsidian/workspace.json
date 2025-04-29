@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "12d426a9c909af46",
+        "id": "164d46117cbde8cf",
         "type": "tabs",
         "children": [
           {
-            "id": "5906873c77e3372c",
+            "id": "bb367a317107ca10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "02 - Areas/College/Year 1/Electrical Network Analysis/Notes/202504261758 Alternating Current.md",
-                "mode": "source",
-                "source": false
+                "file": "02 - Areas/College/Year 1/Year 1.canvas",
+                "viewState": {
+                  "x": -392.937829767434,
+                  "y": 1320.9069384158033,
+                  "zoom": -0.3333333333333332
+                }
               },
-              "icon": "lucide-file",
-              "title": "202504261758 Alternating Current"
+              "icon": "lucide-layout-dashboard",
+              "title": "Year 1"
             }
           }
         ]
@@ -227,22 +230,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5906873c77e3372c",
+  "active": "bb367a317107ca10",
   "lastOpenFiles": [
-    "02 - Areas/College/Year 1/Electrical Network Analysis/Notes/202504271724 Impedance, Reactance and Admittance.md",
+    "02 - Areas/College/Year 1/C Programming/Notes/202504251745 Decision Making and Branching.md",
+    "02 - Areas/College/Year 1/Year 1.canvas",
+    "02 - Areas/College/Year 1/C Programming/Notes/202504242323 Input, Output, Mathematics, Date and Time.md",
+    "02 - Areas/College/Year 1/C Programming/Notes/202504242259 Operators and Expressions.md",
+    "02 - Areas/College/Year 1/C Programming/Notes/202504241610 signed char.md",
+    "02 - Areas/College/Year 1/C Programming/Notes/202504241609 Float and Double.md",
+    "02 - Areas/College/Year 1/C Programming/Notes/202504241359 Variables and Data Types.md",
+    "02 - Areas/College/Year 1/C Programming/Notes/202504241303 Intro to C.md",
+    "03 - Resources/C Programming/202504241308 History of C.md",
+    "06 - Daily/20250429.md",
+    "202504291717.md",
     "02 - Areas/College/Year 1/Electrical Network Analysis/Notes/202504261758 Alternating Current.md",
+    "02 - Areas/College/Year 1/Electrical Network Analysis/Notes/202504271724 Impedance, Reactance and Admittance.md",
+    "06 - Daily/20250425.md",
+    "ED-202504282216.excalidraw.md",
+    "06 - Daily/20250428.md",
     "02 - Areas/College/Year 1/Year 1.md",
     "06 - Daily/20250427.md",
     "02 - Areas/College/Year 1/Electrical Network Analysis/Notes/202504252235 Mesh, Node and Inductance.md",
-    "02 - Areas/College/Year 1/C Programming/Notes/202504241303 Intro to C.md",
-    "02 - Areas/College/Year 1/C Programming/Notes/202504241359 Variables and Data Types.md",
-    "02 - Areas/College/Year 1/C Programming/Notes/202504241609 Float and Double.md",
-    "02 - Areas/College/Year 1/C Programming/Notes/202504241610 signed char.md",
-    "02 - Areas/College/Year 1/C Programming/Notes/202504242259 Operators and Expressions.md",
-    "02 - Areas/College/Year 1/C Programming/Notes/202504251745 Decision Making and Branching.md",
-    "02 - Areas/College/Year 1/C Programming/Notes/202504242323 Input, Output, Mathematics, Date and Time.md",
     "02 - Areas/College/Year 1/Electrical Network Analysis/Assets/circuit2.png",
-    "06 - Daily/20250425.md",
     "06 - Daily/20250426.md",
     "02 - Areas/College/Year 1/Electrical Network Analysis/Assets/circuit1.png",
     "02 - Areas/College/Year 1/Electrical Network Analysis/Assets/Loop Law.png",
@@ -257,7 +266,6 @@
     "02 - Areas/College/Year 1/C Programming/Practical/Unconfirmed 352509.crdownload",
     "02 - Areas/College/Year 1/C Programming/Practical",
     "06 - Daily/20250424.md",
-    "03 - Resources/C Programming/202504241308 History of C.md",
     "202504241620.md",
     "02 - Areas/College/Year 1/C Programming/Main.md",
     "signed char.md",
@@ -266,12 +274,8 @@
     "99 - Meta/attachments/Pasted image 20250424154541.png",
     "99 - Meta/attachments",
     "03 - Resources/C Programming",
-    "03 - Resources/Placeholder.md",
-    "History of C.md",
-    "Untitled.md",
     "02 - Areas/College/Year 1/C Programming/Assets/structure-of-c-program.png",
     "02 - Areas/College/Year 1/C Programming/Assets/Pasted image 20250424130527.png",
-    "02 - Areas/College/Year 1/C Programming/Notes",
-    "02 - Areas/Placeholder.md"
+    "02 - Areas/College/Year 1/C Programming/Notes"
   ]
 }
