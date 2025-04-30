@@ -15,9 +15,9 @@
               "state": {
                 "file": "02 - Areas/College/Year 1/Year 1.canvas",
                 "viewState": {
-                  "x": -6731.574992195197,
-                  "y": -287.91418959994553,
-                  "zoom": 3.3306690738754696e-16
+                  "x": -1337.5325059387317,
+                  "y": -535.281889302457,
+                  "zoom": -0.6666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -246,13 +246,19 @@
   },
   "active": "bb367a317107ca10",
   "lastOpenFiles": [
-    "06 - Daily/20250429.md",
+    "02 - Areas/College/Year 1/Electrical Network Analysis/Assets/transformersvoltage.png",
+    "02 - Areas/College/Year 1/Electrical Network Analysis/Assets/stardeltapower.png",
+    "02 - Areas/College/Year 1/Electrical Network Analysis/Assets/stardeltapower.png.crdownload",
+    "02 - Areas/College/Year 1/Electrical Network Analysis/Assets/star.png",
+    "202504241359 Variables and Data Types.md",
+    "02 - Areas/College/Year 1/Year 1.md",
+    "06 - Daily/20250430.md",
     "02 - Areas/College/Year 1/Year 1.canvas",
+    "06 - Daily/20250429.md",
     "02 - Areas/College/Year 1/Electrical Network Analysis/Assets/sequence.png",
     "02 - Areas/College/Year 1/Electrical Network Analysis/Notes/202504261758 Alternating Current.md",
     "02 - Areas/College/Year 1/Electrical Network Analysis/Notes/202504271724 Impedance, Reactance and Admittance.md",
     "02 - Areas/College/Year 1/Electrical Network Analysis/Notes/202504252235 Mesh, Node and Inductance.md",
-    "02 - Areas/College/Year 1/Year 1.md",
     "02 - Areas/College/Year 1/C Programming/Notes/202504241610 signed char.md",
     "02 - Areas/College/Year 1/C Programming/Practical/202504251427 Circle Circumference.md",
     "02 - Areas/College/Year 1/C Programming/Notes/202504251745 Decision Making and Branching.md",
@@ -282,15 +288,10 @@
     "02 - Areas/College/Year 1/C Programming/Practical",
     "06 - Daily/20250424.md",
     "202504241620.md",
-    "02 - Areas/College/Year 1/C Programming/Main.md",
-    "signed char.md",
     "02 - Areas/College/Year 1/C Programming/Assets/ASCII-Table.png",
     "02 - Areas/College/Year 1/C Programming/Assets/ASCII-Table.png.crdownload",
     "99 - Meta/attachments/Pasted image 20250424154541.png",
     "99 - Meta/attachments",
-    "03 - Resources/C Programming",
-    "02 - Areas/College/Year 1/C Programming/Assets/structure-of-c-program.png",
-    "02 - Areas/College/Year 1/C Programming/Assets/Pasted image 20250424130527.png",
-    "02 - Areas/College/Year 1/C Programming/Notes"
+    "03 - Resources/C Programming"
   ]
 }
