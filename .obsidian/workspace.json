@@ -15,9 +15,9 @@
               "state": {
                 "file": "02 - Areas/College/Year 1/Year 1.canvas",
                 "viewState": {
-                  "x": 312.14418029066746,
-                  "y": -340.848343602216,
-                  "zoom": -1.3269804287702063
+                  "x": -6945.615631393181,
+                  "y": -463.7615531299157,
+                  "zoom": -0.4633583336188521
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -247,6 +247,9 @@
   },
   "active": "bb367a317107ca10",
   "lastOpenFiles": [
+    "99 - Meta/attachments/SOURCE-TRANSFORMATION-FIGURE-2-compressor.jpg",
+    "99 - Meta/attachments/Pasted image 20250901171304.png",
+    "99 - Meta/attachments/Pasted image 20250901170702.png",
     "02 - Areas/College/Year 1/Electrical Network Analysis/Assets/transformersvoltage.png",
     "02 - Areas/College/Year 1/Electrical Network Analysis/Assets/stardeltapower.png",
     "02 - Areas/College/Year 1/Electrical Network Analysis/Assets/stardeltapower.png.crdownload",
@@ -279,7 +282,6 @@
     "02 - Areas/College/Year 1/Electrical Network Analysis/Assets/circuit1.png",
     "02 - Areas/College/Year 1/Electrical Network Analysis/Assets/Loop Law.png",
     "02 - Areas/College/Year 1/Electrical Network Analysis/Assets/Voltage Law.png",
-    "99 - Meta/attachments/Pasted image 20250425225554.png",
     "02 - Areas/College/Year 1/Electrical Network Analysis/Assets",
     "02 - Areas/College/Year 1/Electrical Network Analysis/Notes",
     "02 - Areas/College/Year 1/Electrical Network Analysis",
@@ -289,9 +291,7 @@
     "02 - Areas/College/Year 1/C Programming/Practical",
     "06 - Daily/20250424.md",
     "202504241620.md",
-    "02 - Areas/College/Year 1/C Programming/Assets/ASCII-Table.png",
     "02 - Areas/College/Year 1/C Programming/Assets/ASCII-Table.png.crdownload",
-    "99 - Meta/attachments/Pasted image 20250424154541.png",
     "99 - Meta/attachments",
     "03 - Resources/C Programming"
   ]
