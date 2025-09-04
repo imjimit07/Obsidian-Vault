@@ -15,9 +15,9 @@
               "state": {
                 "file": "02 - Areas/College/Year 1/Year 1.canvas",
                 "viewState": {
-                  "x": -3136.4174271444435,
-                  "y": 5844.386922036316,
-                  "zoom": -0.0022018565890888683
+                  "x": -2848.175101237904,
+                  "y": 5833.388501634109,
+                  "zoom": -0.7051717694594346
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -245,8 +245,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb278612e4ba7875",
+  "active": "bb367a317107ca10",
   "lastOpenFiles": [
+    "99 - Meta/attachments/Pasted image 20250904233722.png",
     "02 - Areas/College/Year 1/Year 1.canvas",
     "conflict-files-obsidian-git.md",
     "99 - Meta/attachments/Pasted image 20250901231016.png",
