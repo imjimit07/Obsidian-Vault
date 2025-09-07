@@ -84,7 +84,7 @@
 		{"id":"1157be6934a8deff","type":"text","text":"### Absorption of Energy\n\n![[Pasted image 20250901190002.png]]\n$$\n\\begin{gathered}\nE_1 + h\\nu \\rightarrow E_2 \\\\\nE_2 - E_1 = \\Delta E = h\\nu\n\\end{gathered}\n$$\nThe probability of absorption is proportional to the energy density $u(\\nu)$ of the radiation:\n$$\nP_{12} = B_{12} \\rho(\\nu)\n$$\nwhere, $B_{12}$ is the Einstein’s coefficient of absorption.\n\nThe number of absorption transitions $N_{ab}$ occurring equal to the product of the number of atoms at the energy level $E_1$ and the probability $P_{12}$ for the absorption transition during time $\\Delta t$.\n$$\nN_{ab} = B_{12}N_1Q\\Delta t\n$$\nwhere, $N_1$ is the number of atoms in ground state.\n\n> During absorption, $N_1$ decreases and $N_2$ increases.\n> ***BUT***, under normal conditions, $N_2$ **cannot** be greater than $N_1$.","x":-3607,"y":4999,"width":541,"height":710},
 		{"id":"4e86dc322bc4088d","type":"text","text":"Physics","x":-3603,"y":4616,"width":110,"height":60},
 		{"id":"55e64050816f2746","x":-4097,"y":5775,"width":577,"height":449,"type":"text","text":"### Conditions for Amplification\n\n1. Stimulated dominates spontaneous emission\n$$\n\\frac{\\text{Stimulated transitions}}{\\text{Spontaneous transitions}} = \\frac{B_{21}N_2\\rho(\\nu)}{A_{21}N_2} = \\frac{B_{21}}{A_{21}}\\rho(\\nu)\n$$\nStimulated will dominate if the photon density is very high.\n\n2. Larger Lifetimes\nThe lifetimes of photons should be longer so that the ratio is very large.\n\n3. Stimulated dominates absorption emission\n$$\n\\frac{\\text{Stimulated transition}}{\\text{Absorption transition}} = \\frac{B_{21}N_2\\rho(\\nu)}{B_{12}N_1\\rho(\\nu)} = \\frac{N_2}{N_1}\n$$\nSince $B_{21} = B_{12}$, stimulated will dominate absorption transition if $N_2$ is greater than $N_1$."},
-		{"id":"f74aa3c12a9cf5f6","x":-3973,"y":6386,"width":446,"height":327,"type":"text","text":"# #  Important Formulae\n\n1. $$\\begin{gathered} \\frac{N_2}{N_1} = e^{-\\frac{E_2-E_1}{kT}} \\\\ \\frac{N_2}{N_1} = e^{-\\frac{h\\nu}{kT}} \\end{gathered}$$\n2. $$ \\begin{gathered} \\frac{N_{sp}}{N_{st}} = e^\\frac{h\\nu}{kT} - 1 \\end{gathered}$$\n3.  Degree of Monochromaticity = $\\frac{\\Delta f}{f}$"}
+		{"id":"f74aa3c12a9cf5f6","x":-4059,"y":6330,"width":446,"height":327,"type":"text","text":"##  Important Formulae\n\n1. $$\\begin{gathered} \\frac{N_2}{N_1} = e^{-\\frac{E_2-E_1}{kT}} \\\\ \\frac{N_2}{N_1} = e^{-\\frac{h\\nu}{kT}} \\end{gathered}$$\n2. $$ \\begin{gathered} \\frac{N_{sp}}{N_{st}} = e^\\frac{h\\nu}{kT} - 1 \\end{gathered}$$\n3.  Degree of Monochromaticity = $\\frac{\\Delta f}{f}$"}
 	],
 	"edges":[
 		{"id":"b6614908d72d444d","fromNode":"25f35c04f0e93269","fromSide":"bottom","toNode":"590e94cd0b46127d","toSide":"top"},
@@ -180,6 +180,7 @@
 		{"id":"121433e1e468b100","fromNode":"560681e14e6f498a","fromSide":"right","toNode":"e2d127449bc8e8b5","toSide":"top"},
 		{"id":"252c5dfb030fef98","fromNode":"8b12a3313b2867d8","fromSide":"left","toNode":"59c285dfa4767611","toSide":"right"},
 		{"id":"07cd587f0ec1b153","fromNode":"9cd0c830887b0a4c","fromSide":"left","toNode":"1d282a88bf4b44ee","toSide":"top"},
-		{"id":"9c388e02597a7d8b","fromNode":"6f71bc967e691744","fromSide":"left","toNode":"55e64050816f2746","toSide":"right"}
+		{"id":"9c388e02597a7d8b","fromNode":"6f71bc967e691744","fromSide":"left","toNode":"55e64050816f2746","toSide":"right"},
+		{"id":"8fa311a7c5547654","fromNode":"55e64050816f2746","fromSide":"bottom","toNode":"f74aa3c12a9cf5f6","toSide":"top"}
 	]
 }
